@@ -2,15 +2,26 @@
 div#divmaincontainer{
   width: 80%;
   margin: auto;
-  /* border: 1px solid turquoise;*/
+  /*border: 1px solid turquoise;*/
 }
 
-  /* styling the border of the site*/
+  /*styling the border of the site*/
 header#siteheader{
   width: 100%;
   height: 150px;
   background-image: linear-gradient (pinkblue,purple,teal);
   border: 1px solid darkgrey;
+  border-radius: 5px 5px 0 0 ;
+  padding: 20px;
 }
+
+/*styling site title*/
+h1#sitetitle{
+  font-family: Arial;
+  font-size: 32px;
+  color: Orange;
+  text-align: center;
+}
+
   
   
