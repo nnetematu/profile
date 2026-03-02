@@ -10,7 +10,7 @@ header#siteheader{
   width: 100%;
   height: 150px;
   background-image: linear-gradient(pinkblue,purple,teal)
-  border:1px solid darkgrey
+  border:1px solid darkgrey;
 }
   
   
